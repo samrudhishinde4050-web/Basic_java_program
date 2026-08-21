@@ -8,11 +8,11 @@ public static void main(String args[])
 {
 ArrayList<String> al=new ArrayList<String>();
 
-al.add("sarthak");
-al.add("nirjala");
-al.add("naina");
-al.add("akku");
-al.add("sona");
+al.add("sam");
+al.add("sonal");
+al.add("aniket");
+al.add("prathmesh");
+al.add("shreya");
 
 System.out.println(al);
 
